@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphotonq=self.webpackChunkphotonq||[]).push([[347],{5415:function(n,o,t){t.r(o),t.d(o,{pageConfig:function(){return a}});var e=t(7800);o.default=()=>(0,e.tZ)(e.HY,{children:(0,e.tZ)("h1",{children:"Documentation"})});const a={label:"Documentation",icon:"FaBook",childTemplates:["DocumentationPage"],menu:{type:"app",group:"photonq"}}}}]);
+//# sourceMappingURL=component---src-pages-docs-index-tsx-5b574671df4d13e2c4b5.js.map

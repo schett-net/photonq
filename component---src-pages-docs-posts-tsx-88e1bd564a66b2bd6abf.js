@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphotonq=self.webpackChunkphotonq||[]).push([[871],{8760:function(n,t,o){o.r(t),o.d(t,{pageConfig:function(){return u}});var e=o(7800);t.default=()=>(0,e.tZ)(e.HY,{children:(0,e.tZ)("h1",{children:"Documentation"})});const u={label:"Community Posts",icon:"FaUsers",menu:{type:"app",group:"photonq"}}}}]);
+//# sourceMappingURL=component---src-pages-docs-posts-tsx-88e1bd564a66b2bd6abf.js.map

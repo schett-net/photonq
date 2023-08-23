@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphotonq=self.webpackChunkphotonq||[]).push([[874],{5631:function(e,n,t){t.r(n),t.d(n,{pageConfig:function(){return c}});var r=t(7800);n.default=()=>(0,r.tZ)(r.HY,{children:(0,r.tZ)("h1",{children:"User"})});const c={label:"User"}}}]);
+//# sourceMappingURL=component---src-pages-user-index-tsx-2d662fc45118a63a3530.js.map

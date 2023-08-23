@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphotonq=self.webpackChunkphotonq||[]).push([[672],{4672:function(n,e,t){t.r(e),t.d(e,{pageConfig:function(){return a}});var o=t(7800);e.default=()=>(0,o.tZ)(o.HY,{children:(0,o.tZ)("h1",{children:"Documentation Page"})});const a={label:"Documentation Page"}}}]);
+//# sourceMappingURL=672-c59a1f40076614bf5ccd.js.map

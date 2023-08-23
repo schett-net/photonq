@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphotonq=self.webpackChunkphotonq||[]).push([[938],{9050:function(e,n,t){t.r(n),t.d(n,{pageConfig:function(){return l}});var r=t(7800);n.default=e=>{let{location:n,pageContext:t}=e;const l=n.pathname.split("/user/")[1];return(0,r.BX)(r.HY,{children:[(0,r.BX)("h1",{children:["handle ",l]}),(0,r.tZ)("pre",{children:JSON.stringify(t,null,2)})]})};const l={label:"User [...]",breadcrumbs:[{label:"schettn",path:"/user/schettn/"}]}}}]);
+//# sourceMappingURL=component---src-pages-user-tsx-b4ed499dbd23878572ec.js.map
